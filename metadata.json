@@ -1,0 +1,8 @@
+{
+  "name": "Remix CMS — College Community Management System",
+  "description": "One centralized platform connecting Students, College Faculty, Club Management Teams, Club Members, and Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
